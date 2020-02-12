@@ -7,3 +7,5 @@ Vive en San Vicente de Cañete.
 Le gusta el futbol y escuchar musica.
 
 Hoy hablaremos de su vida.
+
+Se esta volviendo un maestro en git con el curso de platzi.
